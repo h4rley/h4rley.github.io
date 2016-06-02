@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://mia-gaulin.github.io/sitemap.xml 
