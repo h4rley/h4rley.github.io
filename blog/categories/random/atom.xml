@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Random | My Octopress Blog]]></title>
+  <title><![CDATA[Category: Random | Blog Title TBA]]></title>
   <link href="http://mia-gaulin.github.io/blog/categories/random/atom.xml" rel="self"/>
   <link href="http://mia-gaulin.github.io/"/>
-  <updated>2016-06-02T19:48:38-04:00</updated>
+  <updated>2016-06-02T19:54:40-04:00</updated>
   <id>http://mia-gaulin.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Harley]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
