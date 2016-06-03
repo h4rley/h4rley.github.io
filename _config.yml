@@ -3,10 +3,10 @@
 # ----------------------- #
 
 url: http://mia-gaulin.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
-simple_search: https://www.google.com/search
+title: Blog Title TBA
+subtitle: I'm gonna write stuff about stuff.
+author: Harley
+# simple_search: https://www.google.com/search
 description:
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
